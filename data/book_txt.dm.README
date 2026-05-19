@@ -1,0 +1,4 @@
+The book content is not included because of copyright issues,
+so you only need to copy and paste the book's content here in 
+this folder as `book_txt.dm`. 
+Ingest.py reads it from there.

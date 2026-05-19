@@ -1,6 +1,7 @@
-#documents
+# Company HR policy snippets. Embedded alongside the fitness content so Arnold
+# can answer "how many vacation days do I get" without breaking character.
+
 documents = [
-    
     {"name": "LeavePolicy.txt", "content": "Employees are entitled to 20 days of paid leave annually. Leave requests should be submitted at least two weeks in advance through the HR portal. Unused leave may be carried over to the next year up to a maximum of 5 days. Special leave, such as bereavement or parental leave, is available upon request and subject to approval."},
     {"name": "WorkFromHomePolicy.txt", "content": "Employees may work from home up to 3 days a week, provided their duties allow for remote work. Approval from the line manager is required. Employees must ensure a productive work environment and be available during core business hours. All company data accessed remotely must be handled securely."},
     {"name": "CodeOfConduct.txt", "content": "All employees must adhere to respectful communication, maintain professionalism, and foster an inclusive workplace. Discrimination, harassment, or any form of misconduct will not be tolerated. Employees are expected to report any violations to HR or their supervisor promptly."},
@@ -15,7 +16,7 @@ documents = [
     {"name": "RemoteWorkGuidelines.txt", "content": "Remote work requires stable internet and availability during core hours. Employees must attend virtual meetings and respond to communications promptly. The company may provide equipment as needed, and all remote work arrangements must be reviewed annually."},
     {"name": "ExpensePolicy.txt", "content": "All expenses must be submitted with receipts within 30 days of incurring the cost. Only business-related expenses are eligible for reimbursement. The finance team reviews all claims, and any discrepancies will be communicated to the employee for clarification."},
     {"name": "DataPrivacy.txt", "content": "Personal data must be handled in accordance with GDPR regulations. Employees are responsible for safeguarding confidential information and reporting any data breaches immediately. Regular training on data privacy is mandatory for all staff."},
-    {"name": "MeetingEtiquette.txt", "content": "Meetings should start on time and have a clear agenda circulated in advance. Participants are expected to contribute constructively and respect others’ viewpoints. Action items and minutes should be documented and shared after each meeting."},
+    {"name": "MeetingEtiquette.txt", "content": "Meetings should start on time and have a clear agenda circulated in advance. Participants are expected to contribute constructively and respect others' viewpoints. Action items and minutes should be documented and shared after each meeting."},
     {"name": "SecurityPolicy.txt", "content": "Passwords must be updated every 90 days and not shared with anyone. Employees should lock their computers when away from their desks and report suspicious activity to IT. Regular security awareness training is provided to all staff."},
     {"name": "EqualOpportunity.txt", "content": "The company is committed to providing equal opportunities for all employees regardless of race, gender, age, religion, or disability. Recruitment, promotion, and training decisions are based on merit and business needs. Any concerns should be reported to HR."},
     {"name": "HarassmentPolicy.txt", "content": "Harassment of any kind will not be tolerated and should be reported immediately to HR or a supervisor. All complaints will be investigated promptly and confidentially. Support resources are available for affected employees."},
